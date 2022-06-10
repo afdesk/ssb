@@ -1,2 +1,1 @@
-# ssb
-The Static Site Builder
+# The Static Site Builder
